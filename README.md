@@ -21,13 +21,13 @@ Une application web moderne pour la gestion de projets, des tâches et des équi
 - Suivi des contributions
 - Profils utilisateurs
 
-###Tableaux de Bord
+### Tableaux de Bord
 - Vue d'ensemble des projets
 - Statistiques et métriques
 - Calendrier des échéances
 - Rapports de progression
 
-##Technologies Utilisées
+## Technologies Utilisées
 
 ### Frontend
 - **React** - Bibliothèque UI
