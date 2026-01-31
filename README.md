@@ -1,54 +1,46 @@
-#  Système de Gestion de Projet
+# Mini Trello - Plateforme de Gestion de Tâches Collaborative
 
-Une application web moderne pour la gestion de projets, des tâches et des équipes, développée avec une architecture full-stack.
+##  Description
+Application web full-stack de gestion collaborative de tâches inspirée de Trello, développée en équipe dans le cadre d'un projet académique à l'ENSA Berrechid.
 
-##  Fonctionnalités Principales
+##  Projet Collaboratif
+Ce projet a été réalisé en collaboration avec [@ihssanemlb](https://github.com/ihssanemlb) .
 
-### Gestion des Projets
-- Création et organisation de projets
-- Suivi de l'avancement des projets
-- Attribution des responsables
+**Ma contribution:**
+- Développement du backend avec Java EE (JEE)
+- Conception et implémentation des API RESTful
+- Gestion de la base de données SQL
+- Intégration frontend-backend
+- [Ajoute d'autres trucs que TU as fait spécifiquement]
 
+##  Tech Stack
+- **Backend:** Java EE (JEE), Servlets, JSP
+- **Frontend:** React.js
+- **Base de données:** MySQL/Oracle SQL
+- **Architecture:** RESTful APIs
+- **Outils:** Git, Maven
 
-### Gestion des Tâches
-- Création et assignation de tâches
-- Statuts (À faire, En cours, Terminé)
-- Échéances et rappels
+##  Fonctionnalités
+- Authentification utilisateur
+- Création et gestion de tableaux (boards)
+- CRUD complet sur les tâches
+- Collaboration en équipe
+- Attribution de tâches
+- Suivi de progression
 
-### Gestion d'Équipe
-- Gestion des utilisateurs et rôles
-- Attribution des tâches aux membres
-- Suivi des contributions
-- Profils utilisateurs
+##  Installation & Utilisation
+[Instructions pour lancer le projet localement]
 
-### Tableaux de Bord
-- Vue d'ensemble des projets
-- Statistiques et métriques
-- Calendrier des échéances
-- Rapports de progression
+## 📸 Screenshots
+[Si tu en as]
 
-## Technologies Utilisées
+##  Auteurs
+- **Aya Laaouine** - Backend & Database - [GitHub](https://github.com/Aya_lae)
+- **Ihssane** - [Son rôle] - [GitHub](https://github.com/ihssanemlb)
+- [Autres membres si il y en a]
 
-### Frontend
-- **React** - Bibliothèque UI
-- **Bootstrap** - Framework CSS
-- **React Router** - Navigation
-- **Axios** - Requêtes HTTP
-- **React Icons** - Icônes
+##  Contexte
+Projet académique réalisé à l'ENSA Berrechid dans le cadre du module [Nom du module]
 
-### Backend
-- **Spring Boot** - Framework Java
-- **Spring Security** - Authentification & Autorisation
-- **JPA/Hibernate** - ORM & Persistence
-- **MySQL** - Base de données
-- **Maven** - Gestion des dépendances
-
-### Installation Frontend
-cd frontend
-npm install
-
-npm start
-
-
-
-
+---
+*Projet original: https://github.com/ihssanemlb/projet-gestion-de-projet*
